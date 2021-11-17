@@ -1,0 +1,6 @@
+#EXTM3U
+
+
+#################################################################################
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/640px-Bein_sport_logo.svg.png" group-title="sports",BEIN SPORTS PREMIUM 1 
+https://oliver.github.io/hls/bein/premium1.m3u8
